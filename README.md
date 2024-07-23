@@ -1,4 +1,5 @@
 # my_history
+![image](https://github.com/user-attachments/assets/eadf0f51-50f1-4748-9c9d-0edaa2ac0a2f)
 
 ### Usage
 `print-cnt` 명령어와 인자 하나를 받아 인자가 포함되는 명령어가 몇 번 사용되었는지 출력합니다.
