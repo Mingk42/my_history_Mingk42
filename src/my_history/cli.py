@@ -1,8 +1,6 @@
 import pandas as pd
 import sys
 
-a=sys.argv[1] if len(sys.argv)>1 else 'aws'
-
 def cnt():
     df = pd.read_parquet("~/tmp/history.parquet")
 
