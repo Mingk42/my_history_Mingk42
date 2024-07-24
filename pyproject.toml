@@ -14,6 +14,8 @@ license = {text = "MIT"}
 
 [project.scripts]
 print-cnt='my_history.cli:cnt'
+mingk-history="my_history.cli2:query"
+mh="my_history.cli_argparse:call"
 
 [tool.pdm]
 distribution = false
